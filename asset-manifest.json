@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ruslanhio.github.io/react-ts-product/static/css/main.d073be12.css",
+    "main.js": "/Ruslanhio.github.io/react-ts-product/static/js/main.2c826da4.js",
+    "index.html": "/Ruslanhio.github.io/react-ts-product/index.html",
+    "main.d073be12.css.map": "/Ruslanhio.github.io/react-ts-product/static/css/main.d073be12.css.map",
+    "main.2c826da4.js.map": "/Ruslanhio.github.io/react-ts-product/static/js/main.2c826da4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d073be12.css",
+    "static/js/main.2c826da4.js"
+  ]
+}
